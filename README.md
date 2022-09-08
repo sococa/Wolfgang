@@ -6,3 +6,4 @@ http://wolfgang.freecluster.eu/
 
 LIBRARIES <br/>
 https://fontawesome.com/
+https://www.woothemes.com/flexslider/
