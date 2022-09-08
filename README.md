@@ -1,8 +1,8 @@
 # Wolfgang
 "showcase site" in html and css realized for a lesson with the 3W Academy.
 
-The link of the website
+The link of the website <br/>
 http://wolfgang.freecluster.eu/
 
-LIBRARIES
+LIBRARIES <br/>
 https://fontawesome.com/
